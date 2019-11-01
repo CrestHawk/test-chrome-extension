@@ -1,0 +1,6 @@
+{
+    "name": "Example Extension Spike",
+    "version": "1.0",
+    "description": "Spike extensions! Read from Mongo and write to a JSON file",
+    "manifest_version": 1
+  }
